@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+#Backgroungdesign{
+	background-color:#ebf1f7;
+	margin-left:2px;
+	margin-right:2px;
+	padding-bottom:5px;
+	outline-style: solid;
+	outline-color: #d7dee4;
+	padding-top:5px;
+}
+
+
+#usernameDgn{
+	padding-left:7px;
+	padding-right:7px;
+}
+
+#btnBorderColor{
+	outline-style: solid;
+	outline-color: #d7dee4;
+	color:#245486;
+}
+
+#loginTxtDgn{
+	margin-left:14px; 
+	font-size:18px;
+	color:#245486;
+}
+
